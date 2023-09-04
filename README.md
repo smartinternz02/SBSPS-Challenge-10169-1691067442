@@ -59,14 +59,19 @@ cd SBSPS-Challenge-10169-1691067442
 pip install Flask numpy requests
 ```
 
-Usage
-Start the Flask web application:
+#### Usage
+1. Start the Flask web application:
 
 ```bash
 python app.py
 ```
 
-Open a web browser and go to http://localhost:5000.
+2. Open a web browser and go to
+
+```bash
+http://localhost:5000.
+```
+http://localhost:5000.
 
 Use the web interface to input student information and get predictions for academic performance.
 
