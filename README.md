@@ -43,25 +43,29 @@ Follow these instructions to get the project up and running on your local machin
 
 1. Clone the repository:
 
-   bash
-   git clone https://github.com/smartinternz02/SBSPS-Challenge-10169-1691067442.git
-Navigate to the project directory:
+  ```bash
+git clone https://github.com/smartinternz02/SBSPS-Challenge-10169-1691067442.git
+```
+  
+2. Navigate to the project directory:
 
 ```bash
 cd SBSPS-Challenge-10169-1691067442
 ```
 
-Install the required dependencies:
+3. Install the required dependencies:
 
-bash
-Copy code
+```bash
 pip install Flask numpy requests
+```
+
 Usage
 Start the Flask web application:
 
-bash
-Copy code
+```bash
 python app.py
+```
+
 Open a web browser and go to http://localhost:5000.
 
 Use the web interface to input student information and get predictions for academic performance.
