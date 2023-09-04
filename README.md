@@ -47,9 +47,10 @@ Follow these instructions to get the project up and running on your local machin
    git clone https://github.com/smartinternz02/SBSPS-Challenge-10169-1691067442.git
 Navigate to the project directory:
 
-bash
-Copy code
+```bash
 cd SBSPS-Challenge-10169-1691067442
+```
+
 Install the required dependencies:
 
 bash
