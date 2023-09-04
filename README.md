@@ -61,13 +61,19 @@ pip install Flask numpy requests
 ```
 
 #### Usage
-1. Start the Flask web application:
+
+1. Open the MAIN CODE directory:
 
 ```bash
-python app.py
+cd MAIN_CODE
+```
+2. Start the Flask web application using the following code:
+
+```bash
+python Placed_pred_main.py
 ```
 
-2. Open a web browser and go to
+3. Open a web browser and go to:
 
 ```bash
 http://localhost:5000.
