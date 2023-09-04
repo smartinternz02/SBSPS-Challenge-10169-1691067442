@@ -88,9 +88,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-The Smart Internz team for providing the internship opportunity and challenge.
-Contributors to open-source libraries used in this project.
-css
-Copy code
+Our heartfelt gratitude extends to the Mentors for their unwavering guidance and support throughout this remarkable journey. We also tip our hats to the tireless work of the open-source community and the indispensable tools and libraries they provided.
+
 
 
