@@ -12,7 +12,7 @@
 
 ### Sai Achanta's Badges
 
-• [Journey to Cloud: Envisioning Your Solution](https://www.credly.com/earner/earned/badge/7f43edbc-9722-4dfd-b4fe-3004600b0a72) \
-• [Getting Started with Enterprise Data Science](https://www.credly.com/earner/earned/badge/0e423e82-24e3-4822-a669-29cf01d61313)
+• [Journey to Cloud: Envisioning Your Solution](https://www.credly.com/earner/earned/badge/0e423e82-24e3-4822-a669-29cf01d61313) \
+• [Getting Started with Enterprise Data Science](https://www.credly.com/earner/earned/badge/7f43edbc-9722-4dfd-b4fe-3004600b0a72)
 
 
