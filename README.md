@@ -90,7 +90,7 @@ You can reduce your work by just visiting our [Placement Predictor](http://subhr
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](#LICENSE.md) file for details.
 
 ## Acknowledgments
 
