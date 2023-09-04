@@ -43,7 +43,7 @@ Follow these instructions to get the project up and running on your local machin
 
 1. Clone the repository:
 
-   ```bash
+   bash
    git clone https://github.com/smartinternz02/SBSPS-Challenge-10169-1691067442.git
 Navigate to the project directory:
 
@@ -116,7 +116,7 @@ Follow these instructions to get the project up and running on your local machin
 
 1. Clone the repository:
 
-   ```bash
+   bash
    git clone https://github.com/smartinternz02/SBSPS-Challenge-10169-1691067442.git
 Navigate to the project directory:
 
@@ -141,8 +141,6 @@ Use the web interface to input student information and get predictions for acade
 ### Website
 
 You can reduce your work by just visiting our [Placement Predictor](http://subhradip14.pythonanywhere.com/) webpage.
-
-![image](https://github.com/smartinternz02/SBSPS-Challenge-10169-1691067442/assets/91490894/c77cdbd9-7123-49f7-bd8d-608585378b8d)
 
 
 ## License
