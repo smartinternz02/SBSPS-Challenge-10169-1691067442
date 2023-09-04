@@ -1,5 +1,5 @@
 # Identifying Patterns and Trends In Campus Placement Data using Machine Learning 
-This project was developed as a part of IBM Hack Challenge 2023. This project tries to predict the outcome of a student's placement based on doifferent parameters ( for example, their CGPA, number of backlogs, number of internships, etc). Our hope is that this project helps students to gauge their performance and work accordingly towards achieving a successful placements.
+This project was developed as a part of IBM Hack Challenge 2023. This project tries to predict the outcome of a student's placement based on different parameters ( for example, their CGPA, number of backlogs, number of internships, etc). Our hope is that this project helps students to gauge their performance and work accordingly towards achieving a successful placements.
 
 ## Table of Contents
 - [Project Description](#project-description)
