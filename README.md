@@ -8,6 +8,7 @@ This project was developed as a part of IBM Hack Challenge 2023. This project tr
   - [Local Machine](#local-machine)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
+    - [Usage](#usage)
   - [Website](#website)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -71,7 +72,6 @@ python app.py
 ```bash
 http://localhost:5000.
 ```
-http://localhost:5000.
 
 Use the web interface to input student information and get predictions for academic performance.
 
